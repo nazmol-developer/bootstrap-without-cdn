@@ -1,0 +1,105 @@
+*{margin:0;
+padding:0;}
+
+
+
+body{font-family: 'Teko', sans-serif;}
+
+img{max-width:100%;
+	display:block;}
+
+	 /*header*/
+
+
+	header{background-color: olive;}
+
+	.head{height:100px;}
+
+	.col-2 img{width: 90px;
+		height: 90px;
+	    margin-top: 5px;}
+
+
+.hlogo{color:white;}
+
+.hmenu{text-align:right;
+padding:38px;
+font-size: 20px;}
+
+
+/*banner*/
+
+.bgimg{background-image:url(../images/anders.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center;}
+
+.banner{height:500px;}
+
+.btext{width: 400px;
+	height: 200px;
+	background-color:rgb(53,46,46,0.3);
+text-align: center;
+    margin-top: 150px;
+color:white;
+border-radius: 30px;}
+
+.btext button{padding: 0px 33px;
+border:none;
+border-radius:20px;}
+
+
+.col-6 img{width:20%;
+border-radius: 50px;}
+
+
+/*news*/
+
+.newsletter{height: 200px;
+background-color: gray;}
+
+
+
+.news{text-align: center;
+    padding:65px;}
+
+
+   .news input{border:none;
+       border-radius: 5px}
+
+
+.news button{border: none;
+    background: transparent;}
+
+ button:hover{background-color: red}
+
+
+/*training*/
+
+.trhead{background-color:yellow;}
+
+.subject{height: 250px;
+ 	background-color:skyblue;}
+
+.sub-list{height:200px; font-size: 30px;}
+
+
+/*badge*/
+
+
+.badge{height:25px; text-align:center; font-size:20px;}
+
+
+
+
+/*footer*/
+
+ .footer{height:100px;
+ 	background-color:olive;}
+
+
+ 	.fmenu{margin-top:35px;
+font-size: 20px;}
+
+span{margin:0 10px;}
+

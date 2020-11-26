@@ -1,0 +1,46 @@
+@media only screen and (min-width:1200px){
+	header .button img{display:none;}
+}
+@media only screen and (max-width:1199.98px) and (min-width:992px){
+	header .button img{display:none;}
+}
+@media only screen and (max-width:991.98px) and (min-width:768px){
+	header .button img{display:none;}
+}
+@media only screen and (max-width:767.98px) and (min-width:576px){
+	header .hmenu{font-size: 14px;}
+	header .button img{display:none;}
+	.btext {
+    width: 274px;
+    height: 177px;}
+    .sub-list{font-size:15px;}
+
+    .badge span{height: 22px;
+    text-align: center;
+    font-size: 15px;
+}
+
+
+	
+}
+@media only screen and (max-width:1199.98px) and (min-width:576px){
+	
+}
+@media only screen and (max-width:575.98px) and (min-width:350px){
+	header .hmenu{display:none;}
+	.btext {
+    width: 274px;
+    height: 177px;}
+
+
+    .sub-list {
+    height: 200px;
+    font-size: 15px;
+}
+
+    .badge {
+    height: 18px;
+    text-align: center;
+    font-size: 12px;
+}
+}
