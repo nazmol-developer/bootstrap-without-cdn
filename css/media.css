@@ -6,18 +6,29 @@
 }
 @media only screen and (max-width:991.98px) and (min-width:768px){
 	header .button img{display:none;}
+
+    .btext {
+    width: 330px;}
+
+    .badge {font-size: 18px;}
 }
+
+
 @media only screen and (max-width:767.98px) and (min-width:576px){
 	header .hmenu{font-size: 14px;}
 	header .button img{display:none;}
 	.btext {
-    width: 274px;
+    width: 250px;
     height: 177px;}
     .sub-list{font-size:15px;}
 
     .badge span{height: 22px;
     text-align: center;
-    font-size: 15px;
+    font-size: 11px;}
+
+    .fmenu {
+    margin-top: 35px;
+    font-size: 14px;}
 }
 
 
@@ -29,18 +40,25 @@
 @media only screen and (max-width:575.98px) and (min-width:350px){
 	header .hmenu{display:none;}
 	.btext {
-    width: 274px;
+    width: 244px;
     height: 177px;}
 
 
     .sub-list {
     height: 200px;
-    font-size: 15px;
-}
+    font-size: 15px;}
 
     .badge {
     height: 18px;
     text-align: center;
-    font-size: 12px;
-}
+    font-size: 10px;}
+
+    .bgcard {
+    width: 150px;}
+
+    .fmenu {
+    margin-top: 35px;
+    font-size: 14px;}
+
+
 }
